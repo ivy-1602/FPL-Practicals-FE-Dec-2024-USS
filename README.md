@@ -69,20 +69,6 @@ Length, reverse, palindrome, compare. Realized strings in C are just character a
 4. Didn't like the blue screen either
 5. Overthought simple problems
 
----
-
-## Tips for FE People
-
-If you're doing FPL right now:
-
-- **Don't copy-paste blindly** - Type it out. Muscle memory helps more than you think.
-- **Change the numbers** - Run the program with different inputs. See what happens.
-- **Break things** - Remove a line. See what error you get. Learn from it.
-- **Ask why, not just how** - Why float instead of int? Why do we need that loop?
-- **It's okay to struggle** - Everyone's first programs look like this. It gets better.
-
----
-
 ## What's Different from the Original
 
 Cleaned up a bit:
@@ -139,6 +125,19 @@ Each file has a problem statement, commented code, and sample output at the bott
 - Willingness to make mistakes
 
 ---
+## About
 
-*Made during FE Semester 1 while I was loving Mechanics more than FPL, SPPU.  
+**Uma Salunke**  
+First Year Engineering - AI & ML  
+Semester 2 (Dec 2023)
+
+[LinkedIn](https://www.linkedin.com/in/umasalunke7) • [GitHub](https://github.com/ivy-1602) • [Email](mailto:umasalunke7@gmail.com)
+
+---
+
+## 📄 License
+
+MIT License - Learn, use, share!
+
+*ps. Made during FE Semester 1 while I was loving Mechanics more than FPL, SPPU.  
 When everything was new and so was I, it made sense.*
